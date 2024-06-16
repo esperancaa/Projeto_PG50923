@@ -26,3 +26,14 @@ against knowledge from literature.
 
 In the "Code" folder we have 2 folders ("DeepDTA" e "DLM-DTI") that contain the code and documents necessary to obtain the results demonstrated in the article. 
 Dataset "BindingDB_All_202406_tsv" exceeded the Github's file size limit of 100MB. Because of that, its possible extract the dataset from the following link: https://www.bindingdb.org/rwd/bind/chemsearch/marvin/SDFdownload.jsp?download_file=/bind/downloads/BindingDB_All_202406_tsv.zip
+
+### References
+
+[1] M. M. Ibrahim, T. M. Isyaka, U. M. Askira, J. B. Umar, M. A. Isa, et al.,
+“Trends in the incidence of rifampicin resistant mycobacterium tuberculosis
+infection in northeastern nigeria,” Scientific African, vol. 17, 9 2022.
+
+[2] Global tuberculosis report 2023, 2023.
+
+[3] J. A. L. Flynn and J. Chan, “Immune cell interactions in tuberculosis,” pp.
+4682–4702, 12 2022.
