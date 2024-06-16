@@ -1,0 +1,9 @@
+name: DLM
+channels:
+  - districtdatalabs
+  - mcs07
+  - bokeh
+  - conda-forge
+  - anaconda
+  - defaults
+prefix: /home/resperanca/Projeto/miniconda3/envs/UCM
